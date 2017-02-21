@@ -1,0 +1,26 @@
+{
+  "name": "shell-demo",
+  "version": "1.0.0",
+  "description": "Shell demo code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savankoradia/shell-demo.git"
+  },
+  "keywords": [
+    "Shell",
+    "Command"
+  ],
+  "author": "Savan Koradia <koradia.savan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savankoradia/shell-demo/issues"
+  },
+  "homepage": "https://github.com/savankoradia/shell-demo#readme",
+  "bin": {
+    "shelldemo" : "./index.js"
+  }
+}
